@@ -50,3 +50,15 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=ivansaul&theme=react-dark&bg_color=20232a&hide_border=true" width="80%"/>
   -->
 </div>
+
+
+<!--
+# Sources
+- https://www.youtube.com/watch?v=TsaLQAetPLU
+- https://github.com/abhisheknaiidu/awesome-github-profile-readme
+
+# Examples
+- https://github.com/Raymo111/Raymo111
+- https://github.com/rahul-jha98/rahul-jha98
+- https://github.com/zumrudu-anka/zumrudu-anka
+-->
