@@ -46,8 +46,6 @@
   <a href="https://gitlab.com/username" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
  	<a href="https://stackoverflow.com/users/12039038/ivansaul" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
    
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  ### test
   ![Snake animation](https://github.com/ivansaul/ivansaul/blob/output/github-contribution-grid-snake.svg)
   <!--
   <img src="https://activity-graph.herokuapp.com/graph?username=ivansaul&theme=react-dark&bg_color=20232a&hide_border=true" width="80%"/>
