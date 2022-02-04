@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=23&lines=Hi+there+👋)](https://git.io/typing-svg)
 ##
 
 <p align=center>
