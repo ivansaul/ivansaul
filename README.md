@@ -1,8 +1,7 @@
 ### Hi there 👋
+
 ##
 
-
- 
 <p align=center>
   <div align=center>
     <a href="https://github.com/ivansaul" title="Go to Source">
@@ -18,9 +17,7 @@
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivansaul&theme=dracula&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br>
 </p>
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
@@ -39,6 +36,7 @@
   <img align="right" alt="Pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
 
+##
 
 <div>
   <a href="https://discord.com/users/744755977684779038" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
