@@ -32,7 +32,7 @@
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-  <img align="right" alt="Pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/NdtWY5M.png">
+  <img align="right" alt="Pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/NdtWY5Mx.png">
 </div>
 
 ##
