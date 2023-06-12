@@ -16,6 +16,12 @@
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivansaul&theme=dracula&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
+  <br>
+  <div align=center>
+    <a href="https://github.com/ivansaul">
+      <img src="https://visitcount.itsvg.in/api?id=ivansaul&label=Profile%20Views&color=0&icon=6&pretty=true" />
+    </a>
+  </div>
 </p>
 
 <div style="display: inline_block"><br>
