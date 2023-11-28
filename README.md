@@ -51,7 +51,12 @@
   <a href="https://gitlab.com/ivansaul" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
  	<a href="https://stackoverflow.com/users/12039038/ivansaul" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
    
-  ![Snake animation](https://github.com/ivansaul/ivansaul/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ivansaul/ivansaul/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ivansaul/ivansaul/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/ivansaul/ivansaul/output/github-contribution-grid-snake.svg">
+  </picture>
+  
   <!--
   <img src="https://activity-graph.herokuapp.com/graph?username=ivansaul&theme=react-dark&bg_color=20232a&hide_border=true" width="80%"/>
   -->
