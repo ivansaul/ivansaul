@@ -1,20 +1,45 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0084E7&size=23&lines=Hi+there+👋)](https://git.io/typing-svg)
+
+```python
+class AboutMe():
+  # I'm a passionate self-taught programmer.
+  # I’m currently learning Flutter.
+    
+  def __init__(self):
+    self.name = "Ivan Saul"
+    self.username = "ivansaul"
+    self.location = "Lima, Peru"
+    self.portfolio = "https://ivansaul.github.io"
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = AboutMe()
+```
+
 ##
 
 <p align=center>
   <div align=center>
-    <a href="https://github.com/ivansaul" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ivansaul&theme=dracula&border=61dafb&hide_border=true" alt="ivansaul" />
-    </a>
-    <a href="https://github.com/ivansaul" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ivansaul&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
-    </a>
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api?username=ivansaul&show_icons=true&theme=dracula" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api?username=ivansaul&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=ivansaul&show_icons=true" />
+    </picture>
+    <picture>
+      <source srcset="https://github-readme-streak-stats.herokuapp.com?user=ivansaul&theme=dracula" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-streak-stats.herokuapp.com?user=ivansaul" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com?user=ivansaul" />
+    </picture>
   </div>
   <br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/ivansaul" title="Go to Source">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivansaul&theme=dracula&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ivansaul&theme=dracula&langs_count=8&layout=compact" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ivansaul&langs_count=8&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivansaul&langs_count=8&layout=compact" />
+    </picture>
   </div>
   <br>
   <div align=center>
