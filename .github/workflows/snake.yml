@@ -14,7 +14,7 @@ jobs:
       - uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: ivansaul
+          github_user_name: kasunsagara
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
