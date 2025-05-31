@@ -2,14 +2,20 @@
 
 ```python
 class AboutMe():
-  # I'm a passionate self-taught programmer.
-  # I’m currently learning SwiftUI and Flutter.
-    
+  # Passionate self-taught developer.
+
   def __init__(self):
     self.name = "Ivan Saul"
     self.username = "ivansaul"
     self.location = "Lima, Peru"
     self.portfolio = "https://ivansaul.github.io"
+    self.interests = [
+      "Python",
+      "SwiftUI",
+      "Flutter",
+      "Clean code",
+      "UX design",
+    ]
   
   def __str__(self):
     return self.name
