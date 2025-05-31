@@ -50,7 +50,7 @@ if __name__ == '__main__':
   <br>
   <div align=center>
     <a href="https://github.com/ivansaul">
-      <img src="https://visitcount.itsvg.in/api?id=ivansaul&label=Profile%20Views&color=0&icon=6&pretty=true" />
+      <img src="https://komarev.com/ghpvc/?username=ivansaul&abbreviated=true" />
     </a>
   </div>
 </p>
