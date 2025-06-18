@@ -8,7 +8,7 @@ class AboutMe():
     self.name = "Ivan Saul"
     self.username = "ivansaul"
     self.location = "Lima, Peru"
-    self.portfolio = "https://ivansaul.github.io"
+    self.portfolio = "https://ivansaul.com"
     self.interests = [
       "Python",
       "SwiftUI",
