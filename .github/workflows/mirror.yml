@@ -1,0 +1,21 @@
+name: Mirror
+
+on:
+  push:
+    branches:
+      - "**"
+
+jobs:
+  mirror-gitlab:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Mirror to GitLab
+        uses: spyoungtech/mirror-action@v0.5.1
+        with:
+          REMOTE: "https://gitlab.com/ivansaul/ivansaul.git"
+          GIT_USERNAME: ivansaul
+          GIT_PASSWORD: ${{ secrets.GITLAB_TOKEN }}
+          DEBUG: "true"
