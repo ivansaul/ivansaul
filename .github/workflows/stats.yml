@@ -44,6 +44,22 @@ jobs:
           path: dist/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate Top Languages Dark
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&theme=dracula&langs_count=8&layout=compact
+          path: dist/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages Light
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&langs_count=8&layout=compact
+          path: dist/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Push Changes
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:

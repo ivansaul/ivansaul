@@ -42,9 +42,9 @@ if __name__ == '__main__':
   <br><br><br><br><br><br><br><br>
   <div align=center>
     <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ivansaul&theme=dracula&langs_count=8&layout=compact" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ivansaul&langs_count=8&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivansaul&langs_count=8&layout=compact" />
+      <source srcset="https://raw.githubusercontent.com/ivansaul/ivansaul/output/top-langs-dark.svg" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://raw.githubusercontent.com/ivansaul/ivansaul/output/top-langs-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img width=325 align="center" src="https://raw.githubusercontent.com/ivansaul/ivansaul/output/top-langs-light.svg" />
     </picture>
   </div>
   <br>
