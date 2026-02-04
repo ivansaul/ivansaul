@@ -11,6 +11,9 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v6
+
       - name: Generate Snake Art
         uses: Platane/snk@v3
         id: snake-gif
