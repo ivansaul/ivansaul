@@ -14,6 +14,11 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v6
 
+      - name: Prepare dist Folder
+        run: |
+          mkdir -p dist
+          chmod -R u+rw dist
+
       - name: Generate Snake Art
         uses: Platane/snk@v3
         id: snake-gif
